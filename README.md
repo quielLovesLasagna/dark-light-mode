@@ -20,6 +20,7 @@ Live site url: [https://quiel-dark-light-mode.netlify.app/](https://quiel-dark-l
 Users should be able to:
 
 - Switch between Light and Dark mode.
+- Save chosen theme to local storage.
 
 ## My process
 
